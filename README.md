@@ -1,4 +1,4 @@
-# Guida de ejercicios de Java
+# Guia de ejercicios de Java
 
 <!-- TOC depthFrom:2 -->
 
